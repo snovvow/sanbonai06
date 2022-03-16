@@ -23,5 +23,5 @@ int main() {
     for(int i=0; i<n; i++) {
         cin>>v[i];
     }
-    cout<<logic()<<"\n";
+    cout<<logic()<<"\n"; 
 }
