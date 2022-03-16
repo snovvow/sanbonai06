@@ -31,5 +31,5 @@ int main() {
             result = max(result, map[i][j]);
         }
     }
-    cout<<result*result<<"\n";
+    cout<<result*result<<"\n"; 
 }
