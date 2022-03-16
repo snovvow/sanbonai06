@@ -24,7 +24,7 @@ int dy[2] = {0,1};
 //         }
 //     }
 // }
-
+ 
 int main() {
     int N, M;
     cin>>N>>M;
