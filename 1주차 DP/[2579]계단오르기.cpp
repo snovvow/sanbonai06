@@ -26,6 +26,6 @@ int main() {
     for(int i=1; i<=N; i++) {
         cin>>s[i];
     }
-    logic();
+    logic(); 
     cout<<dp[N]<<"\n";
 }
