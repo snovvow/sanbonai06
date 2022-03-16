@@ -18,5 +18,5 @@ int main() {
             }
         }
     }
-    cout<<dp[K][N]%MOD<<"\n";
+    cout<<dp[K][N]%MOD<<"\n"; 
 }
